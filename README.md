@@ -60,5 +60,3 @@ Contribuições são bem-vindas! Para colaborar:
 ## Licença
 
 Este projeto está licenciado sob a **GPL-2.0 License**. Consulte o arquivo `LICENSE` para mais informações.
-
-Quer que eu faça essa versão aprimorada?
